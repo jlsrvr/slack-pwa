@@ -7,7 +7,54 @@
   "background_color": "#4A154B",
   "theme_color": "#4A154B",
   "icons": [
-    
+    {
+      "purpose": "maskable",
+      "sizes": "1024x1024",
+      "src": "https://raw.githubusercontent.com/gxanshu/slack-pwa/main/assets/icon_1024.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "48x48",
+      "src": "https://raw.githubusercontent.com/gxanshu/slack-pwa/main/assets/icon_48.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "72x72",
+      "src": "https://raw.githubusercontent.com/gxanshu/slack-pwa/main/assets/icon_72.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "96x96",
+      "src": "https://raw.githubusercontent.com/gxanshu/slack-pwa/main/assets/icon_96.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "128x128",
+      "src": "https://raw.githubusercontent.com/gxanshu/slack-pwa/main/assets/icon_128.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "192x192",
+      "src": "https://raw.githubusercontent.com/gxanshu/slack-pwa/main/assets/icon_192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "384x384",
+      "src": "https://raw.githubusercontent.com/gxanshu/slack-pwa/main/assets/icon_384.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "https://raw.githubusercontent.com/gxanshu/slack-pwa/main/assets/icon_512.png",
+      "type": "image/png"
+    }
   ],
   "splash_pages": null
 }
